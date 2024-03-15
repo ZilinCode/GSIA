@@ -1,5 +1,4 @@
 # GSIA
-<<<<<<< HEAD
 This is a implementation for the paper ["GAN-based Sub-instance Augmentation for Open-pit Mine Change Detection in Remote Sensing Images"](https://ieeexplore.ieee.org/abstract/document/10329996) 
 
 Overall architecture of GSIA.
@@ -27,8 +26,3 @@ If you use this code for your research, please cite our paper.
   year={2024}
 }
 ```
-=======
-GAN-based Sub-instance Augmentation for Open-pit Mine Change Detection in Remote Sensing Images
-
-The code will be released later
->>>>>>> f5a68e7f2378ca3c44f8cac385430b04188ebf0c
